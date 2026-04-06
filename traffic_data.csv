@@ -1,0 +1,6 @@
+"id,location,traffic_level,avg_speed,incident,description"
+"1,Highway 101,High,25,Accident,Major accident causing delays"
+"2,I-5,Medium,45,None,Moderate traffic flow"
+"3,Downtown,High,20,Construction,Roadwork causing congestion"
+"4,Route 66,Low,60,None,Clear roads and smooth traffic"
+"5,Main Street,Medium,35,Event,Local event increasing traffic"
